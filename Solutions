@@ -258,3 +258,19 @@ Level 19 - 20
 
 
 Password : GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+
+Level 20 - 21
+
+Terminal 1 :
+$nc -l 8080
+GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+
+Terminal 2:
+./suconnect 8080
+Read: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+Password matches, sending next password
+
+Check Terminal 1 for new password
+
+Password : gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
